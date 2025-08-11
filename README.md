@@ -1,4 +1,9 @@
 # User Management System - Final Project
+# User Management System
+
+Welcome to my user management system project. This project is my user management system built for the NJIT final assignment.
+
+...
 
 ## Overview
 This project is a robust User Management System built with FastAPI and Docker.  
