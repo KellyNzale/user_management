@@ -26,6 +26,13 @@ It provides secure user registration, login, and role-based access control to ma
 - Docker and Docker Compose  
 - Git  
 
+## How to Run
+
+To start the app locally, run:
+
+```bash
+docker-compose up
+
 ### Installation
 
 1. Clone the repository  
@@ -81,3 +88,9 @@ Date: August 2025
 
 Copy
 Edit
+
+## Contributing
+
+Contributions are welcome!  
+Please fork the repository, create a new branch for your feature or bugfix, and open a pull request.  
+Make sure to write clear commit messages and test your changes.
