@@ -1,4 +1,6 @@
 User Management System - Personal Project
+## Installation
+Run `docker-compose up` to start the app locally.
 
 Overview
 This is my personalized fork of the User Management System project originally created by Professor Keith Williams for NJIT. It is a secure and scalable API built with FastAPI for managing users with features like authentication, role-based access control, and email verification.
