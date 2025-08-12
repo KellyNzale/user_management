@@ -94,3 +94,9 @@ Edit
 Contributions are welcome!  
 Please fork the repository, create a new branch for your feature or bugfix, and open a pull request.  
 Make sure to write clear commit messages and test your changes.
+
+## Future Improvements
+
+- Add email verification on registration  
+- Improve UI responsiveness  
+- Add password strength meter  
